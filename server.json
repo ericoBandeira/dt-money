@@ -23,6 +23,22 @@
       "category": "Educação",
       "price": 1980,
       "createdAt": "2022-09-29T19:30:44.505Z"
+    },
+    {
+      "description": "Pagar divida",
+      "price": 9000,
+      "category": "Divida",
+      "type": "outcome",
+      "createdAt": "2024-09-10T01:16:59.657Z",
+      "id": 4
+    },
+    {
+      "description": "Desenvolvimento back-end",
+      "price": 2000,
+      "category": "Trabalho",
+      "type": "income",
+      "createdAt": "2024-09-10T01:28:55.409Z",
+      "id": 5
     }
   ]
 }
